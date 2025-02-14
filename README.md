@@ -96,5 +96,5 @@ npm install
 
 Start the client
 ```bash
-npm run dev
+npm start
 ```
