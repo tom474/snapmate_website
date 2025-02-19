@@ -55,7 +55,7 @@ Navigate to the project directory
 cd snapmate_website
 ```
 
-Create `.env` file and set up environment variables
+Create `.env` file in `server` and set up environment variables
 
 ```
 MONGO_URI="your_mongo_uri"
